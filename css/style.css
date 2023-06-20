@@ -1,0 +1,45 @@
+body{
+    background-image: url(../images/Fondo2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card{
+    width: 32rem;
+    height: 32rem;
+    background:rgba(16, 64, 104, 0.5);
+    color: white;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: rgb(20, 72, 151);
+    color: white;
+}
+
+.btn:hover{
+    background-color: rgb(25, 168, 194);
+}
+
+
+.link{
+    color: cyan;
+}
+
+.link:hover{
+    cursor: pointer;
+    color:aquamarine;
+}
+
+.Forgotten-password {
+    color: cyan;
+    float: left;
+    padding:0;
+    text-decoration: none;
+}
+
+.Forgotten-password:hover{
+    color:aquamarine; 
+}
